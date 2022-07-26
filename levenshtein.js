@@ -1,11 +1,4 @@
-// A program to compute the similarity between two strings
-// Description
-// Implement a code which calculates a similarity value between two strings. The
-// value should be between 0 and 1 which indicates the degree of similarity
-// between the two strings. The code should calculate two types of similarity
-// using
 
-// 1) levenshtein distance
 
 
 
